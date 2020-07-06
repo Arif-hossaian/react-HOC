@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-HOC/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-HOC/static/js/main.990743e7.chunk.js",
+    "main.js.map": "/react-HOC/static/js/main.990743e7.chunk.js.map",
+    "runtime-main.js": "/react-HOC/static/js/runtime-main.5610be21.js",
+    "runtime-main.js.map": "/react-HOC/static/js/runtime-main.5610be21.js.map",
+    "static/js/2.c9a59fcc.chunk.js": "/react-HOC/static/js/2.c9a59fcc.chunk.js",
+    "static/js/2.c9a59fcc.chunk.js.map": "/react-HOC/static/js/2.c9a59fcc.chunk.js.map",
+    "index.html": "/react-HOC/index.html",
+    "precache-manifest.158924587f8d0323db576df69bce6b7f.js": "/react-HOC/precache-manifest.158924587f8d0323db576df69bce6b7f.js",
+    "service-worker.js": "/react-HOC/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-HOC/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.c9a59fcc.chunk.js.LICENSE.txt": "/react-HOC/static/js/2.c9a59fcc.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-HOC/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5610be21.js",
+    "static/js/2.c9a59fcc.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.990743e7.chunk.js"
+  ]
+}
